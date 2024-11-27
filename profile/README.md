@@ -3,8 +3,6 @@
 Project Pixelstar
 ===========
 
-[![Download Project-Pixelstar](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/pixelstar/files/latest/download)
-
 Welcome to Project-Pixelstar!
 
 Project-Pixelstar is based on AOSP, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
