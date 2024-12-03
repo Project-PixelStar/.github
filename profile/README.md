@@ -9,17 +9,6 @@ Project-Pixelstar is based on AOSP, allows users to experience Google's latest P
 We currently support Android 14, with the latest security patches from Google.
 
 -----------------------------------------------------------------------------
-### Quick Source Initialization ###
-```bash
--  Pixelstar 3.4 - UDAY based On A14 (BUILDABLE)
-git lfs install && repo init -u https://github.com/Project-PixelStar/manifest -b 14-qpr3 --git-lfs
- repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
-```
-
-```bash
-- Pixelstar 4.0 - PRATAH based On A15 (WIP)
-```
------------------------------------------------------------------------------
 ### Where to start
 
 Kindly visit the following repositories:
